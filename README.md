@@ -2,7 +2,7 @@ Ahmad Karam Ahmedoğlu
 
 Classworks
 
-[CW1](https://github.com/Ahmadkaramahmedoglu1/AdvancedPrograming/blob/main/CW%231%20--%20Browser%20tools/cw1.PNG)
+[CW1](https://github.com/Ahmadkaramahmedoglu1/AdvancedPrograming/blob/main/CW%231%20--%20Browser%20tools/a.html)
 
 [CW1](https://github.com/Ahmadkaramahmedoglu1/AdvancedPrograming/blob/main/CW%232%20--%20Objects%20and%20Arrays/cw2.PNG)
 
